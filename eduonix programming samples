@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>eduonix practice samples</title>
+<style>
+body { background-color:grey;
+}</style> 
+</head>
+<body>
+     <h1>Welcome Everyone !</h1>
+	 
+	 <p> This is my second tutorials after learning from Khan academy.<br>
+	 I have learned CSS and HTML Basics from khan acadedmy. It is free <br>
+	 to learn education site started by salman khan. 
+	 </p>
+	 
+	 <h2> Now, some details about uttarakhand,a beautiful state in northern India.</h2>
+	 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Seal_of_Uttarakhand.svg/800px-Seal_of_Uttarakhand.svg.png" alt=" official logo of uttarakhand" width=150px>
+	 <p> <strong>Uttarakhand</strong> formerly known as Uttaranchal is a state in the northern<br>
+	 part of India. It is often referred to as the "Devabhumi" (literally "Land of the Gods")<br>
+	 due to numerous Hindu temples and pilgrimage centres found throughout the state.<br>
+	 Uttarakhand is known for the natural environment of the Himalayas, the Bhabar and<br>
+	 the Terai. On 9 November 2000, Uttarakhand became the 27th state of the Republic<br>
+	 of India, being carved from the Himalayan districts of Uttar Pradesh.<br>
+	 It borders Tibet Autonomous Region of China to the north; the Sudurpashchim Pradesh of<br>
+	 Nepal to the east; the Indian states of Uttar Pradesh to the south and Himachal Pradesh<br>
+	 to the west and north-west. The state is divided into two divisions, Garhwal and Kumaon,<br>
+	 with a total of 13 districts. The capital of Uttarakhand is Dehradun, the largest city of<br>
+	 the state, which is a railhead. The High Court of the state is located in Nainital.
+	 
+</body>
+</html>
